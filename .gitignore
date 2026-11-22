@@ -3,3 +3,7 @@ node_modules/
 
 # Raporty z testów Playwright (jeśli generowane)
 report/
+
+# Wyniki uruchomień Playwright
+test-results/
+playwright-report/
